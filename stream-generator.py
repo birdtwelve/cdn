@@ -34,7 +34,7 @@ SOURCES = [
     "https://raw.githubusercontent.com/birdtwelve/cdn/main/mpdtest.m3u",
 ]
 FALLBACK_SOURCES = [
-    "https://raw.githubusercontent.com/bugsfreeweb/LiveTVCollector/main/LiveTV/Mexico/LiveTV.m3u",
+    "https://raw.githubusercontent.com/birdtwelve/cdn/main/mpdtest.m3u",
 ]
 
 # Static fallback M3U
