@@ -91,8 +91,8 @@ def validate_source(url, session):
 
 # Check if a URL is active
 def is_stream_active(url, session):
-    if not url.lower().endswith(".m3u8"):
-        return False  # Skip non-.m3u8
+    if not url.lower().endswith(".mpd"):
+        return False  # Skip non-.mpd
     try:
         response = session.head(url, timeout=1, allow_redirects=True)
         if response.status_code in (200, 206, 301, 302):
