@@ -1,13 +1,13 @@
-#EXTM3U tvg-updated="2026-03-27T08:44:06+00:00"
-#EXTINF:-1 tvg-id="Dummy" tvg-logo="noimage.png" group-title="GSE NO GROUP" tvg-last-checked="2026-03-27T08:44:06+00:00", Be Junior
+#EXTM3U tvg-updated="2026-03-27T16:47:19+00:00"
+#EXTINF:-1 tvg-id="Dummy" tvg-logo="noimage.png" group-title="GSE NO GROUP" tvg-last-checked="2026-03-27T16:47:19+00:00", Be Junior
 https://birdtwelve.github.io/cdn/streams/be_junior_1154456c.m3u8
-#EXTINF:-1 tvg-id="Dummy" tvg-logo="noimage.png" group-title="GSE NO GROUP" tvg-last-checked="2026-03-27T08:44:06+00:00", Jeem
+#EXTINF:-1 tvg-id="Dummy" tvg-logo="noimage.png" group-title="GSE NO GROUP" tvg-last-checked="2026-03-27T16:47:19+00:00", Jeem
 https://birdtwelve.github.io/cdn/streams/jeem_53337815.m3u8
-#EXTINF:-1 tvg-id="Dummy" tvg-logo="noimage.png" group-title="GSE NO GROUP" tvg-last-checked="2026-03-27T08:44:06+00:00", Cartoon Network MENA
+#EXTINF:-1 tvg-id="Dummy" tvg-logo="noimage.png" group-title="GSE NO GROUP" tvg-last-checked="2026-03-27T16:47:19+00:00", Cartoon Network MENA
 https://birdtwelve.github.io/cdn/streams/cartoon_network_mena_46ee2920.m3u8
-#EXTINF:-1 tvg-id="Dummy" tvg-logo="noimage.png" group-title="GSE NO GROUP" tvg-last-checked="2026-03-27T08:44:06+00:00", Myx
+#EXTINF:-1 tvg-id="Dummy" tvg-logo="noimage.png" group-title="GSE NO GROUP" tvg-last-checked="2026-03-27T16:47:19+00:00", Myx
 https://birdtwelve.github.io/cdn/streams/myx_e910bab7.m3u8
-#EXTINF:-1 tvg-id="Dummy" tvg-logo="noimage.png" group-title="GSE NO GROUP" tvg-last-checked="2026-03-27T08:44:06+00:00", Nicktoons Global
+#EXTINF:-1 tvg-id="Dummy" tvg-logo="noimage.png" group-title="GSE NO GROUP" tvg-last-checked="2026-03-27T16:47:19+00:00", Nicktoons Global
 https://birdtwelve.github.io/cdn/streams/nicktoons_global_bc1f9a21.m3u8
-#EXTINF:-1 tvg-id="Dummy" tvg-logo="noimage.png" group-title="GSE NO GROUP" tvg-last-checked="2026-03-27T08:44:06+00:00", TFC
+#EXTINF:-1 tvg-id="Dummy" tvg-logo="noimage.png" group-title="GSE NO GROUP" tvg-last-checked="2026-03-27T16:47:19+00:00", TFC
 https://birdtwelve.github.io/cdn/streams/tfc_7863cc22.m3u8
