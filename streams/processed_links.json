@@ -1,26 +1,26 @@
 {
   "https://bbb.exoadash.com/TVD1322/index.mpd": {
-    "last_checked": 1774861541.214506,
-    "is_active": true
+    "last_checked": 1774975932.2909489,
+    "is_active": false
   },
   "https://bbb.exoadash.com/TVD1424/index.mpd": {
-    "last_checked": 1774861541.13976,
-    "is_active": true
+    "last_checked": 1774975932.2410407,
+    "is_active": false
   },
   "https://bbb.exoadash.com/TVD1427/index.mpd": {
-    "last_checked": 1774861541.1397705,
-    "is_active": true
+    "last_checked": 1774975932.2405498,
+    "is_active": false
   },
   "https://bbb.exoadash.com/TVD1353/index.mpd": {
-    "last_checked": 1774861541.214923,
-    "is_active": true
+    "last_checked": 1774975932.2669384,
+    "is_active": false
   },
   "https://bbb.exoadash.com/TVD1309/index.mpd": {
-    "last_checked": 1774861541.2166095,
-    "is_active": true
+    "last_checked": 1774975932.403422,
+    "is_active": false
   },
   "https://bbb.exoadash.com/TVD1327/index.mpd": {
-    "last_checked": 1774861541.2175639,
-    "is_active": true
+    "last_checked": 1774975932.3225698,
+    "is_active": false
   }
 }
